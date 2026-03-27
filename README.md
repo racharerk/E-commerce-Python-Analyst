@@ -29,4 +29,4 @@ This project analyzes e-commerce data to understand customer behavior, top citie
 : Main analysis notebook
 
 ## 🚀 Conclusion
-The business is heavily concentrated in major cities, and repeat customers exist but are limited.[ecommerce_analyst.ipynb](https://github.com/user-attachments/files/26309430/ecommerce_analyst.ipynb)
+The business is heavily concentrated in major cities, and repeat customers exist but are limited.
