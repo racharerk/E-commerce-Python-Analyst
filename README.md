@@ -25,7 +25,8 @@ This project analyzes e-commerce data to understand customer behavior, top citie
 - Bar chart of top 10 cities by number of orders
 
 ## 📁 Files
-- `analysis.ipynb` : Main analysis notebook
+- [ecommerce_analyst.ipynb](https://github.com/user-attachments/files/26309486/ecommerce_analyst.ipynb)
+: Main analysis notebook
 
 ## 🚀 Conclusion
 The business is heavily concentrated in major cities, and repeat customers exist but are limited.[ecommerce_analyst.ipynb](https://github.com/user-attachments/files/26309430/ecommerce_analyst.ipynb)
