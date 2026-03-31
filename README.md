@@ -34,7 +34,10 @@ This project analyzes e-commerce data to uncover customer behavior, top-performi
 - Bar chart showing Top 10 cities by number of orders
 
 ## 📁 Project Structure
-- [ecommerce_analyst.ipynb](https://github.com/user-attachments/files/26309486/ecommerce_analyst.ipynb)
+ecommerce-python-analysis/
+ ├── data/ (optional)
+ ├── analysis.ipynb
+ ├── README.md
 : Main analysis notebook
 
 ## 🚀 Conclusion
