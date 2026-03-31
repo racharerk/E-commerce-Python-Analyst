@@ -1,6 +1,3 @@
-# ecommerce-data-analysis-python
-E-commerce data analysis using Python (Pandas, Matplotlib)
-
 # 📊 E-commerce Data Analysis (Python)
 ## Data Loading
 ## Data Cleaning
