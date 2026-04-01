@@ -1,9 +1,4 @@
 # 📊 E-commerce Data Analysis (Python)
-## Data Loading
-## Data Cleaning
-## Analysis
-## Visualization
-## Conclusion
 
 ## 📌 Overview
 This project analyzes e-commerce data to uncover customer behavior, top-performing cities, and overall revenue trends.
